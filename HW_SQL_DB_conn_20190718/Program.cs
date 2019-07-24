@@ -90,7 +90,7 @@ namespace HW_SQL_DB_conn_20190718
 
             InsertCustomer("Николай", "Смирнов", "smirnov@mail.ru", "qwerty1", "Сейфулина, 510 - 35", 87019548651, "m", new DateTime(1985, 03, 08), new DateTime(2019, 07, 25), 10);
 
-            // Task 3
+            // Task 3 
 
             DeleteCustomerById(21);
 
